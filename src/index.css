@@ -49,3 +49,10 @@ body::before {
     animation: none !important;
   }
 }
+
+.card {
+  padding: 2em;
+  background-color: #837f7faf;
+  border-radius: 8px;
+  display: inline-block;
+}
